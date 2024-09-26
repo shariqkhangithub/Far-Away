@@ -1,0 +1,42 @@
+.adjest-input{
+    height: 70px;
+    width: 100vw;
+    background-color: #eb7117;
+}
+
+.input-container{
+    height: 70px;
+    width: 70%;
+    /* background-color: red; */
+    display: flex;  
+    text-align: center;
+    align-content: center;
+    margin: auto;
+    padding: 23px;
+    padding-left: 40px;
+
+}
+
+.sel{
+    border-radius: 15px;
+    height: 28px;
+    width: 50px;
+    margin-left: 20px;
+    background-color: #f9e9b0;
+}
+.inp{
+    border-radius: 15px;
+    height: 28px;
+    width: 220px;
+    background-color: #f9e9b0;
+    margin-left: 20px;
+    padding-left: 8px;
+}
+.inp-btn{
+    border-radius: 15px;
+    height: 28px;
+    width: 60px;
+    background-color: #61b7a3;
+    margin-left: 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.footer-container{
+    height: 50px;
+    width: 100vw;
+    background-color: #61b7a3;
+    text-align: center;
+    align-content: center;
+}
+span{
+    color: red;
+}

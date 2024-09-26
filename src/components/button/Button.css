@@ -1,0 +1,65 @@
+.button-container {
+    height: 62.8vh;
+    width: 100vw;
+    background-color: #503623;
+    display: flex;
+    flex-direction: column;
+    /* align-items: last baseline; */
+    justify-content: center;
+}
+
+.itemlist {
+    width: 100%;
+    height: 80%;
+    /* background-color: rgb(1, 174, 174); */
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0.5rem;
+}
+
+.itembutton {
+    height: 20%;
+    width: 100%;
+    /* background-color: blueviolet; */
+    text-align: center;
+    align-content: center;
+}
+
+#slc {  
+    height: 35px;
+    width: 170px;
+    padding-left: 8px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.btn {
+    width: 90px;
+    height: 40px;
+    background-color: #f9e9b0;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+.list-design{
+    display: flex;
+    height: 13%;
+    width: 20%;
+    /* background-color: aqua; */
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    gap: 0.8rem;
+    color: aliceblue;
+    font-size: 1.3rem;
+
+}
+.x-btn{
+    color: red;
+    border-style: none;
+    background: none;
+    font-size: 1rem;
+}
